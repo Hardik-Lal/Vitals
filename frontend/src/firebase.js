@@ -2,7 +2,6 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDekzlEsmGH6cGXvwx51ABslTCtCrDNFHw",
   authDomain: "vitals-app-minor-c323d.firebaseapp.com",
   projectId: "vitals-app-minor-c323d",
   storageBucket: "vitals-app-minor-c323d.firebasestorage.app",
